@@ -1,23 +1,66 @@
-### Oi!! Eu sou o Luis 👋
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Henrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Henrique&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-</div>
-  
-<div> 
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Luis-Henrique/e633f29fa1e99cee6101ce2fd233a85a/raw/9185aadfa936c5d5ea1a5ecafda016e40c88de12/Gitcardimage.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luis Henrique 🙈</h1>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
+- 🔥 Computer Technician
+
+- 🔭 I’m currently working on [Dotz inc](https://www.linkedin.com/company/dotz/)
+
+- 👨‍💻 All of my projects are available at [LuisHenrique.dev](https://github.com/Luis-Henrique)
+
+- 🌱 I’m currently learning **#CSS**
+
+- 💬 Ask me about **#Java #HTML #CSS #SQL #C++**
+
+- ⚡ Fun fact **Curly Hair**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
+![PostMan](https://img.shields.io/badge/-PostMan-05122A?style=flat&logo=postman)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Luis-Henrique&show_icons=true&theme=vision-friendly-dark" alt="Luis's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Henrique&layout=compact&theme=vision-friendly-dark" alt="Luis's stats most languages"/>
+</p>
+
+<br><br>
+
+## 😎 &nbsp;Social Links
+
+<a href="https://www.linkedin.com/in/luis-henrique-4b14b520a/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LuisHenrique-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/luis_h3nrique_/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-LuisHenrique-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+<!--
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<br><br>
+
