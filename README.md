@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [LuisHenrique.dev](https://github.com/Luis-Henrique)
 
-- 🌱 I’m currently learning **C#**
-
 - 💬 Ask me about **Java HTML CSS SQL C# C++ TypeScript**
 
 - ⚡ Fun fact **Curly Hair**
