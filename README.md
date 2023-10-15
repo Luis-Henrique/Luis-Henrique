@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Dotz inc](https://www.linkedin.com/company/dotz/)
 
-- 👨‍💻 All of my projects are available at [LuisHenrique.dev](https://github.com/Luis-Henrique)
+- 👨‍💻 All of my projects are available at [LuisHenrique.dev](https://luishenriquedev.netlify.app/)
 
 - 💬 Ask me about **Java HTML CSS SQL C# C++ TypeScript**
 
