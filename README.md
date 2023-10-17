@@ -1,7 +1,3 @@
-
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Luis-Henrique/e633f29fa1e99cee6101ce2fd233a85a/raw/9185aadfa936c5d5ea1a5ecafda016e40c88de12/Gitcardimage.svg"/>
-<h1 align="left">Hi 👋, I'm Luis Henrique</h1>
-
 - 🔥 Computer Technician
 
 - 🔭 I’m currently working on [Dotz inc](https://www.linkedin.com/company/dotz/)
